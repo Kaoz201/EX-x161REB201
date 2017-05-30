@@ -1,0 +1,5 @@
+* Spice netlister for gnetlist
+C? 1 2 0.000031F
+R2 0 2 2000
+V1 1 0 54
+.END
